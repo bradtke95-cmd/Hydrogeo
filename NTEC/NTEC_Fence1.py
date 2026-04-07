@@ -19,10 +19,18 @@ def extract_rock_code(lith_str):
     """Extract primary rock type code from lithology string."""
     if pd.isna(lith_str) or lith_str == "nan":
         return ""
+    
+    upper_lith = str(lith_str).upper()
+    
+    # Special handling for tuff variants
+    if "TUFF" in upper_lith:
+        return "T"
+    
     # Take first component before "/"
     first_part = str(lith_str).split("/")[0].strip()
     if not first_part:
         return ""
+    
     # Take first word, uppercase, 2 chars max
     code = first_part.split()[0].upper()[:2]
     return code
@@ -124,6 +132,46 @@ Plotly.newPlot("section", {json.dumps(traces)}, {{
   yaxis: {{title: "Elevation (m)"}},
   hovermode: "closest",
   legend: {{orientation:"h", x:0.5, xanchor:"center", y:-0.25}},
+  updatemenus: [{{
+    type: 'dropdown',
+    direction: 'down',
+    x: 0.5,
+    xanchor: 'center',
+    y: 1.1,
+    yanchor: 'top',
+    buttons: [{{
+      label: 'Hide Cofer Hot Springs Marker',
+      method: 'relayout',
+      args: [{{
+        shapes: [],
+        annotations: []
+      }}]
+    }}, {{
+      label: 'Show Cofer Hot Springs Marker',
+      method: 'relayout',
+      args: [{{
+        shapes: [{{
+          type: 'line',
+          x0: 0,
+          x1: 1,
+          y0: 603,
+          y1: 603,
+          xref: 'paper',
+          yref: 'y',
+          line: {{color: 'blue', width: 2, dash: 'dash'}}
+        }}],
+        annotations: [{{
+          x: 0.5,
+          y: 607,
+          xref: 'paper',
+          yref: 'y',
+          text: 'Cofer Hot Springs Elevation',
+          showarrow: false,
+          font: {{size: 12, color: 'black'}}
+        }}]
+      }}]
+    }}]
+  }}],
   shapes: [{{
     type: 'line',
     x0: 0,
@@ -156,5 +204,4 @@ Plotly.newPlot("section", {json.dumps(traces)}, {{
 with open("borehole_cross_section_north_labeled.html", "w") as f:
     f.write(html)
 
-print("✅ borehole_cross_section_north_labeled.html created")
 print("🌐 View at: http://localhost:8000/borehole_cross_section_north_labeled.html")
