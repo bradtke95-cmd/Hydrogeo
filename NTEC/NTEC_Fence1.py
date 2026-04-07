@@ -124,6 +124,46 @@ Plotly.newPlot("section", {json.dumps(traces)}, {{
   yaxis: {{title: "Elevation (m)"}},
   hovermode: "closest",
   legend: {{orientation:"h", x:0.5, xanchor:"center", y:-0.25}},
+  updatemenus: [{{
+    type: 'dropdown',
+    direction: 'down',
+    x: 0.5,
+    xanchor: 'center',
+    y: 1.1,
+    yanchor: 'top',
+    buttons: [{{
+      label: 'Hide Cofer Hot Springs Marker',
+      method: 'relayout',
+      args: [{{
+        shapes: [],
+        annotations: []
+      }}]
+    }}, {{
+      label: 'Show Cofer Hot Springs Marker',
+      method: 'relayout',
+      args: [{{
+        shapes: [{{
+          type: 'line',
+          x0: 0,
+          x1: 1,
+          y0: 603,
+          y1: 603,
+          xref: 'paper',
+          yref: 'y',
+          line: {{color: 'blue', width: 2, dash: 'dash'}}
+        }}],
+        annotations: [{{
+          x: 0.5,
+          y: 607,
+          xref: 'paper',
+          yref: 'y',
+          text: 'Cofer Hot Springs Elevation',
+          showarrow: false,
+          font: {{size: 12, color: 'black'}}
+        }}]
+      }}]
+    }}]
+  }}],
   shapes: [{{
     type: 'line',
     x0: 0,
