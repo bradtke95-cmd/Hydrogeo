@@ -20,8 +20,12 @@ def extract_rock_code(lith_str):
     """Extract primary rock type code from lithology string."""
     if pd.isna(lith_str) or lith_str == "nan":
         return ""
-    # Take first component before "/" or space
-    code = str(lith_str).split("/")[0].split()[0].upper()[:2]
+    # Take first component before "/"
+    first_part = str(lith_str).split("/")[0].strip()
+    if not first_part:
+        return ""
+    # Take first word, uppercase, 2 chars max
+    code = first_part.split()[0].upper()[:2]
     return code
 
 logs = pd.concat([
