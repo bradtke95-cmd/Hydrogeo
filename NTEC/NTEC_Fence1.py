@@ -1,9 +1,21 @@
 import json
 import pandas as pd
 import numpy as np
+from pyproj import Transformer
 
 # Load collars
 collars = pd.read_csv("Collars_fence.csv")
+
+# Convert UTM to lat/lng (assuming UTM Zone 12N)
+from pyproj import Transformer
+transformer = Transformer.from_crs("EPSG:32612", "EPSG:4326", always_xy=True)
+
+def utm_to_latlon(easting, northing):
+    lon, lat = transformer.transform(easting, northing)
+    return lat, lon
+
+# Add lat/lng to collars
+collars['lat'], collars['lon'] = zip(*collars.apply(lambda row: utm_to_latlon(row['Easting'], row['Northing']), axis=1))
 
 def load_log(fname):
     raw = pd.read_csv(fname, header=None)
@@ -78,11 +90,16 @@ labels = {
 }
 
 traces = []
+hole_traces = {}  # Group traces by hole_id
 
 # Lith intervals
 for _, r in data.iterrows():
     code = extract_rock_code(r.Lith)
-    traces.append({
+    hole_id = r.Hole_id
+    if hole_id not in hole_traces:
+        hole_traces[hole_id] = []
+    
+    hole_traces[hole_id].append({
         "type": "scatter",
         "mode": "lines",
         "x": [r.X, r.X],
@@ -91,7 +108,12 @@ for _, r in data.iterrows():
         "hoverinfo": "text",
         "text": f"{r.Hole_id}<br>{r.Lith}<br>{r.From}-{r.To} m",
         "showlegend": False,
+        "visible": True,
     })
+
+# Convert hole_traces to flat list for Plotly
+for hole_id, hole_data in hole_traces.items():
+    traces.extend(hole_data)
 
 # Hole labels at collar
 for _, r in collars.iterrows():
@@ -116,16 +138,144 @@ for k, v in labels.items():
         "name": v,
     })
 
+# Prepare collar data for JavaScript
+collar_data = []
+for _, r in collars.iterrows():
+    collar_data.append({
+        "id": r["Hole ID"],
+        "lat": r["lat"],
+        "lon": r["lon"],
+        "elevation": r["Elevation_meters"]
+    })
+
+# Calculate trace indices for each hole
+hole_trace_indices = {}
+current_index = 0
+for hole_id, hole_data in hole_traces.items():
+    hole_trace_indices[hole_id] = list(range(current_index, current_index + len(hole_data)))
+    current_index += len(hole_data)
+
 html = f"""
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8"/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<style>
+    body {{
+        margin: 0;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+    }}
+    .container {{
+        display: flex;
+        height: calc(100vh - 40px);
+    }}
+    #map {{
+        width: 50%;
+        height: 100%;
+        margin-right: 10px;
+    }}
+    #section {{
+        width: 50%;
+        height: 100%;
+    }}
+    .hole-marker {{
+        background-color: #3388ff;
+        border: 2px solid white;
+        border-radius: 50%;
+        box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    }}
+    .hole-marker.active {{
+        background-color: #ff3388;
+        border-color: #cc0066;
+    }}
+</style>
 </head>
 <body>
-<div id="section" style="width:100%;height:650px;"></div>
+<div class="container">
+    <div id="map"></div>
+    <div id="section"></div>
+</div>
 <script>
+const collarData = {json.dumps(collar_data)};
+const holeTraceIndices = {json.dumps(hole_trace_indices)};
+let activeHoles = new Set(Object.keys(holeTraceIndices)); // All holes start visible
+
+// Initialize map
+const map = L.map('map').setView([collarData[0].lat, collarData[0].lon], 13);
+L.tileLayer('https://{{s}}.tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png', {{
+    attribution: '© OpenStreetMap contributors'
+}}).addTo(map);
+
+// Add markers
+const markers = {{}};
+collarData.forEach(collar => {{
+    const marker = L.marker([collar.lat, collar.lon])
+        .addTo(map)
+        .bindPopup(`<b>${{collar.id}}</b><br>Elevation: ${{collar.elevation}}m`)
+        .on('click', function() {{
+            toggleHole(collar.id);
+        }});
+    
+    // Style the marker
+    const icon = marker.getIcon();
+    icon.options.className = 'hole-marker';
+    marker.setIcon(icon);
+    
+    markers[collar.id] = marker;
+    updateMarkerStyle(collar.id);
+}});
+
+// Fit map to show all markers
+const group = new L.featureGroup(Object.values(markers));
+map.fitBounds(group.getBounds().pad(0.1));
+
+function updateMarkerStyle(holeId) {{
+    const marker = markers[holeId];
+    const isActive = activeHoles.has(holeId);
+    
+    // Update marker appearance
+    const icon = marker.getIcon();
+    if (isActive) {{
+        icon.options.className = 'hole-marker active';
+    }} else {{
+        icon.options.className = 'hole-marker';
+    }}
+    marker.setIcon(icon);
+}}
+
+function toggleHole(holeId) {{
+    if (activeHoles.has(holeId)) {{
+        activeHoles.delete(holeId);
+    }} else {{
+        activeHoles.add(holeId);
+    }}
+    
+    updateMarkerStyle(holeId);
+    updatePlotVisibility();
+}}
+
+function updatePlotVisibility() {{
+    const visibility = [];
+    Object.keys(holeTraceIndices).forEach(holeId => {{
+        const indices = holeTraceIndices[holeId];
+        const isVisible = activeHoles.has(holeId);
+        indices.forEach(() => visibility.push(isVisible));
+    }});
+    
+    // Add visibility for hole labels and legend (always visible)
+    const numHoleLabels = collarData.length;
+    const numLegendItems = {len(labels)};
+    for (let i = 0; i < numHoleLabels + numLegendItems; i++) {{
+        visibility.push(true);
+    }}
+    
+    Plotly.update('section', {{visible: visibility}});
+}}
+
 Plotly.newPlot("section", {json.dumps(traces)}, {{
   title: "Interactive Borehole Fence – Looking North",
   xaxis: {{title: "Distance along section (looking north)"}},
