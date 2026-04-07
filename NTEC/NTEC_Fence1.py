@@ -1,7 +1,6 @@
 import json
 import pandas as pd
 import numpy as np
-import base64
 
 # Load collars
 collars = pd.read_csv("Collars_fence.csv")
@@ -134,7 +133,4 @@ Plotly.newPlot("section", {json.dumps(traces)}, {{
 with open("borehole_cross_section_north_labeled.html", "w") as f:
     f.write(html)
 
-# Generate data URL
-data_url = "data:text/html;base64," + base64.b64encode(html.encode()).decode()
-print("✅ Data URL created. Copy and paste into your browser address bar:\n")
-print(data_url)
+print("✅ borehole_cross_section_north_labeled.html created")
