@@ -196,5 +196,4 @@ Plotly.newPlot("section", {json.dumps(traces)}, {{
 with open("borehole_cross_section_north_labeled.html", "w") as f:
     f.write(html)
 
-print("✅ borehole_cross_section_north_labeled.html created")
 print("🌐 View at: http://localhost:8000/borehole_cross_section_north_labeled.html")
