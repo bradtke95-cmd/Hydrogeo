@@ -121,3 +121,4 @@ with open("borehole_cross_section_north_labeled.html", "w") as f:
     f.write(html)
 
 print("✅ borehole_cross_section_north_labeled.html created")
+``
