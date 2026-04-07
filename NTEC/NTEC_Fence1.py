@@ -123,7 +123,30 @@ Plotly.newPlot("section", {json.dumps(traces)}, {{
   xaxis: {{title: "Distance along section (looking north)"}},
   yaxis: {{title: "Elevation (m)"}},
   hovermode: "closest",
-  legend: {{orientation:"h", x:0.5, xanchor:"center", y:-0.25}}
+  legend: {{orientation:"h", x:0.5, xanchor:"center", y:-0.25}},
+  shapes: [{{
+    type: 'line',
+    x0: 0,
+    x1: 1,
+    y0: 603,
+    y1: 603,
+    xref: 'paper',
+    yref: 'y',
+    line: {{
+      color: 'red',
+      width: 2,
+      dash: 'dash'
+    }}
+  }}],
+  annotations: [{{
+    x: 0.5,
+    y: 603,
+    xref: 'paper',
+    yref: 'y',
+    text: 'Cofer Hot Springs Elevation',
+    showarrow: false,
+    font: {{size: 12, color: 'red'}}
+  }}]
 }});
 </script>
 </body>
