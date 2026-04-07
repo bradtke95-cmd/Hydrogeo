@@ -133,19 +133,19 @@ Plotly.newPlot("section", {json.dumps(traces)}, {{
     xref: 'paper',
     yref: 'y',
     line: {{
-      color: 'red',
+      color: 'blue',
       width: 2,
       dash: 'dash'
     }}
   }}],
   annotations: [{{
     x: 0.5,
-    y: 603,
+    y: 607,
     xref: 'paper',
     yref: 'y',
     text: 'Cofer Hot Springs Elevation',
     showarrow: false,
-    font: {{size: 12, color: 'red'}}
+    font: {{size: 12, color: 'black'}}
   }}]
 }});
 </script>
@@ -157,3 +157,4 @@ with open("borehole_cross_section_north_labeled.html", "w") as f:
     f.write(html)
 
 print("✅ borehole_cross_section_north_labeled.html created")
+print("🌐 View at: http://localhost:8000/borehole_cross_section_north_labeled.html")
