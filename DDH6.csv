@@ -1,0 +1,50 @@
+Hole_id,DDH6,,,Date Start  26/07/2018,,,,Date Finish  3/08/2018,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DDH6,0.00,14.33,w,CO,,f,br,,,,Colluvium
+DDH6,14.33,15.20,w,CY,,m,gnbr,,,s,Sandy clay
+DDH6,15.20,15.90,w,CY,,f,gnbr,,,p,Puggy clay
+DDH6,15.90,20.00,w,CY,,m,gy,,,s,Sandy clay
+DDH6,20.00,20.47,w,CY,,f,brgy,,,s,Clayey tuff?
+DDH6,20.47,21.42,w,CY,CC,f,brgy,10,,p,Puggy clay
+DDH6,21.42,23.65,w,CY,,f,brw,,,p,Clay with black specs
+DDH6,23.65,24.10,sox,CC,,m,wbr,60,,s,Weathered LS
+DDH6,24.10,26.60,fr,CC,,f,wh,80,,,LS
+DDH6,26.60,27.00,sox,CC,CY,f,gnwh,60,,,interbedded LS and CY
+DDH6,27.00,27.60,w,CY,,f,gybr,,,s,slightly sandy grn white clay
+DDH6,27.60,30.34,w,CY,,f,gybr,10,,,br CY with CC interbeds
+DDH6,30.34,32.45,w,CY,,f,br, ,,p,slightly puggy
+DDH6,32.45,33.32,w,CY,,f,grwh,30,,,calcareous clays
+DDH6,33.32,34.80,w,CY,,f,brgy,,,p,slightly puggy
+DDH6,34.80,41.23,sox,CY,CC,fm,grbn,15,,,sandy to slightly puggy altered tuffs with calcite blobs and concretions + black specks
+DDH6,41.23,42.15,fr,CC,,f,wh,90,,,CC LS
+DDH6,42.15,45.23,soxfr,CY,,fm,gywh,,,,mottled calcareous clays
+DDH6,45.23,46.33,sox,CY,,f,gnbr,,,c,CY with chondial break
+DDH6,46.33,49.10,soxfr,CC,CY,fm,gywhmot,40,3,,mottled broken gywh calcareous clays
+DDH6,49.10,55.47,soxfr,CC,CY,fm,gywhmot,50,3,,broken zone
+DDH6,55.47,57.30,soxfr,CY,,f,gngy, ,2,p,
+DDH6,57.30,58.40,soxfr,CY,,f,br,,2,c,conchoidal fracture
+DDH6,58.40,60.10,fr,CY,,fm,gngy,,2,,
+DDH6,60.10,60.60,sox,mud,,,brgn,,2,,fault zone?
+DDH6,60.60,61.11,soxfr,CY,,f,gybr,,2,,
+DDH6,61.11,61.70,fr,CC,,,wh,80,3,,
+DDH6,61.70,62.60,fr,CY,CC,f,gygn,30,2,p,minor CC interbeds
+DDH6,62.60,66.00,sox,T,,m,br,,2,s,SS carbonate cemented with calcite vnlts 64-64.4
+DDH6,66.00,68.19,fr,CC,SS,m,brwh,20,2,s,interbedded SS and CC
+DDH6,68.19,71.23,sox,T,,m,br,,1,s,SS carbonate cemented
+DDH6,71.23,71.58,sox,CY,,f,br,,1,p,
+DDH6,71.58,72.54,sox,T,,m,brgy,,2,,As 68.19-71.23
+DDH6,72.54,73.76,fr,CC,,,gywh,70,3,,
+DDH6,73.76,76.35,sox,T,,m,brgy,,2,,As 68.19-71.23
+DDH6,76.35,81.38,sox,T,CC,m,gywh,30,3,,Intercalated
+DDH6,81.38,83.10,sox,T,,mc,rdbr,,2,,Carbonate cemented
+DDH6,83.10,87.48,,T,,mc,rdbr,,,,Acid tuff uncemented sands no recovery
+,EOH,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
