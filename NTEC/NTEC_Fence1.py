@@ -15,10 +15,19 @@ def load_log(fname):
     df["Lith"] = df["Rock 1"].astype(str)
     return df[["Hole_id", "From", "To", "Lith"]]
 
+def extract_rock_code(lith_str):
+    """Extract primary rock type code from lithology string."""
+    if pd.isna(lith_str) or lith_str == "nan":
+        return ""
+    # Take first component before "/" or space
+    code = str(lith_str).split("/")[0].split()[0].upper()[:2]
+    return code
+
 logs = pd.concat([
     load_log("DDH5.csv"),
     load_log("DDH6.csv"),
     load_log("DDH7.csv"),
+    load_log("DHQ1.csv"),
     load_log("DHQ18.csv"),
     load_log("DHQ25.csv"),
     load_log("DHQ26.csv"),
@@ -60,7 +69,7 @@ traces = []
 
 # Lith intervals
 for _, r in data.iterrows():
-    code = r.Lith[:2].upper()
+    code = extract_rock_code(r.Lith)
     traces.append({
         "type": "scatter",
         "mode": "lines",
