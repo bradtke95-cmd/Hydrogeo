@@ -26,14 +26,16 @@
         height: 100%;
     }
     .hole-marker {
-        background-color: #3388ff;
-        border: 2px solid white;
-        border-radius: 50%;
-        box-shadow: 0 0 5px rgba(0,0,0,0.3);
+        width: 0;
+        height: 0;
+        border-left: 5pt solid transparent;
+        border-right: 5pt solid transparent;
+        border-top: 10pt solid #3388ff;
+        cursor: pointer;
+        filter: drop-shadow(0 0 3pt rgba(0,0,0,0.3));
     }
     .hole-marker.active {
-        background-color: #ff3388;
-        border-color: #cc0066;
+        border-top-color: #ff3388;
     }
 </style>
 </head>
@@ -56,17 +58,19 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // Add markers
 const markers = {};
 collarData.forEach(collar => {
-    const marker = L.marker([collar.lat, collar.lon])
+    const marker = L.marker([collar.lat, collar.lon], {
+        icon: L.divIcon({
+            className: 'hole-marker',
+            html: '',
+            iconSize: [10, 20],
+            iconAnchor: [5, 0]
+        })
+    })
         .addTo(map)
         .bindPopup(`<b>${collar.id}</b><br>Elevation: ${collar.elevation}m`)
         .on('click', function() {
             toggleHole(collar.id);
         });
-    
-    // Style the marker
-    const icon = marker.getIcon();
-    icon.options.className = 'hole-marker';
-    marker.setIcon(icon);
     
     markers[collar.id] = marker;
     updateMarkerStyle(collar.id);
@@ -80,14 +84,14 @@ function updateMarkerStyle(holeId) {
     const marker = markers[holeId];
     const isActive = activeHoles.has(holeId);
     
-    // Update marker appearance
-    const icon = marker.getIcon();
-    if (isActive) {
-        icon.options.className = 'hole-marker active';
-    } else {
-        icon.options.className = 'hole-marker';
-    }
-    marker.setIcon(icon);
+    // Update marker icon
+    const newIcon = L.divIcon({
+        className: isActive ? 'hole-marker active' : 'hole-marker',
+        html: '',
+        iconSize: [10, 20],
+        iconAnchor: [5, 0]
+    });
+    marker.setIcon(newIcon);
 }
 
 function toggleHole(holeId) {
