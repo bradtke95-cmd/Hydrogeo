@@ -1,0 +1,21 @@
+Hole_id,DDH2,Unnamed: 2,Unnamed: 3,Date Start  2/10/2018,Unnamed: 5,Unnamed: 6,Unnamed: 7,Date Finish 9/10/2018,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13
+,,,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks,,
+DDH2,0,20,,CO,,,,,,,,0.0,65.61679790026247
+DDH2,20,23.75,w,CY,CC,,br,,,,lower contact zone,65.61679790026247,77.91994750656168
+DDH2,23.75,36.15,w,CY,,,br,,,,competent clays after crystal tuff,77.91994750656168,118.60236220472441
+DDH2,36.15,36.5,w,CY,,,gybr,,,,competent clays after crystal tuff,118.60236220472441,119.750656167979
+DDH2,36.5,42.34,sox,CY,,,br,,,,competent clays after crystal tuff,119.750656167979,138.91076115485566
+DDH2,42.34,43.45,sox,CY,,,gnbr,,,,competent clays after crystal tuff,138.91076115485566,142.5524934383202
+DDH2,43.45,44.08,sox,CY,T,,br,,,,crystal tuff,142.5524934383202,144.61942257217848
+DDH2,44.08,44.7,sox,CY,T,,gn,,,,after crystal tuff,144.61942257217848,146.6535433070866
+DDH2,44.7,46.8,sox,CY,,,gn,,,p,bright green ,146.6535433070866,153.54330708661416
+DDH2,46.8,52,sox,CY,,,gnbr,,,p,,153.54330708661416,170.60367454068242
+DDH2,52,60.1,sox,CY,,,br,,,c,sandy in part,170.60367454068242,197.1784776902887
+DDH2,60.1,68.14,sox,CY,,,brgy,,,p,,197.1784776902887,223.5564304461942
+DDH2,68.14,70.05,sox,CY,CC,,brgy,,,p,minor CC,223.5564304461942,229.8228346456693
+DDH2,70.05,71.8,sox,CY,,,br,,,s,,229.8228346456693,235.56430446194227
+DDH2,71.8,84.5,sox,CY,,,br,,,c,,235.56430446194227,277.2309711286089
+DDH2,84.5,86.89,sox,CY,,c,br,,,s,sandy,277.2309711286089,285.0721784776903
+DDH2,86.89,92,sox,GT,,m,br,,,,Medium Grit,285.0721784776903,301.83727034120733
+DDH2,92,96.62,sox,GT,,c,br,,,,Coarse Grit,301.83727034120733,316.994750656168

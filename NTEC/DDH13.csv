@@ -1,0 +1,6 @@
+Hole_id,DDH13,Unnamed: 2,Unnamed: 3,Date Start  26/09/2018,Unnamed: 5,Unnamed: 6,Unnamed: 7,Date Finish 29/09/2018,Unnamed: 9,Unnamed: 10,Unnamed: 11
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DDH13,0,6.71,w,CO,,,,,,,
+DDH13,6.71,13.9,w,CY,,f,whgy,,,p,
+DDH13,13.9,24.99,sox,T,,c,whrd,,,,Crystal tuff

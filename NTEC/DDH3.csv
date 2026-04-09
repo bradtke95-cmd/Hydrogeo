@@ -1,0 +1,38 @@
+Hole_id,DDH3,Unnamed: 2,Unnamed: 3,Date Start  24/08/2018,Unnamed: 5,Unnamed: 6,Unnamed: 7,Date Finish  28/08/2018,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13
+,,,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks,,
+DDH3,0,9.75,,CO,,,,,,,,0.0,31.988188976377952
+DDH3,9.75,15,w,CY,,fm,bn,5,1,s,Occasionally sandy.,31.988188976377952,49.21259842519685
+DDH3,15,20.78,w,CY,T,f,gngy,10,1,,Moderately tuffaceous. Occasionally brown.,49.21259842519685,68.1758530183727
+DDH3,20.78,23.47,w,CY,T,f,bnwh,5,1,,Brown clay with white tuff interbeds.,68.1758530183727,77.001312335958
+DDH3,23.47,25.24,fr,T,,f,gy,5,1,,,77.001312335958,82.80839895013122
+DDH3,25.24,30.5,fr,CY,,f,gn,20,2,p,Tuffaceous near top. More calcareious near bottom.,82.80839895013122,100.06561679790026
+DDH3,30.5,34.21,fr,CY,,f,gy,70,3,,Numerous irregular CaCO3 masses (blebs). 7cm bed of coarse carbonate sandstone @ 34.14.,100.06561679790026,112.23753280839895
+DDH3,34.21,35.73,fr,CY,,fm,bngy,30,2,s,Sandy,112.23753280839895,117.22440944881888
+DDH3,35.73,36.87,fr,CY,,f,bn,15,1,,,117.22440944881888,120.96456692913385
+DDH3,36.87,38.57,fr,CY,,f,gn,15,1,,,120.96456692913385,126.54199475065617
+DDH3,38.57,47.43,fr,CY,,f,bngy,30,2,,Sandy @ 40.53 - 41.21.,126.54199475065617,155.61023622047244
+DDH3,47.43,49.31,fr,CY,,f,gn,5,1,,,155.61023622047244,161.7782152230971
+DDH3,49.31,54.75,fr,CY,,f,bn,40,2,,,161.7782152230971,179.6259842519685
+DDH3,54.75,56.12,fr,CY,,f,gn,30,2,,,179.6259842519685,184.12073490813648
+DDH3,56.12,58.23,fr,CC,CY,f,gywh,70,3,,Muddy calcrete.,184.12073490813648,191.04330708661416
+DDH3,58.23,59.52,fr,CY,,f,bn,10,1,,Bright green silt @ 58.58 - 58.68.,191.04330708661416,195.2755905511811
+DDH3,59.52,61.76,fr,CY,CC,f,bn,50,3,,Calcrete blebs in clay.,195.2755905511811,202.6246719160105
+DDH3,61.76,64.5,fr,CY,CC,f,bn,40,2,,Scattered calcrete blebs.,202.6246719160105,211.61417322834646
+DDH3,64.5,73.35,fr,CY,,f,bn,30,2,,Sandy @ 65.45 - 65.90.,211.61417322834646,240.6496062992126
+DDH3,73.35,76.81,fr,CC,,f,wh,80,3,,Very poor recovery in lower part of interval.,240.6496062992126,252.001312335958
+DDH3,76.81,79.86,fr,CY,,f,bn,30,2,,,252.001312335958,262.00787401574803
+DDH3,79.86,80.81,fr,CC,,f,whbn,50,3,,Laminated. Less calcareous in some zones.,262.00787401574803,265.12467191601047
+DDH3,80.81,85.54,fr,CY,,f,bn,30,2,,Fine - coarse grained sand @ 84.51 - 84.63.,265.12467191601047,280.6430446194226
+DDH3,85.54,87.4,fr,CY,CC,f,bnwh,50,3,,Clay w/ numerous calcite blebs.,280.6430446194226,286.745406824147
+DDH3,87.4,89.09,fr,CY,,f,bn,30,2,,Dirty fine-grained sandstone @ 89.00 - 89.09,286.745406824147,292.29002624671915
+DDH3,89.09,90.1,fr,CY,CC,f,whbn,50,3,,Clay w/ several calcite blebs.,292.29002624671915,295.6036745406824
+DDH3,90.1,93.96,fr,CY,,f,bn,30,2,,,295.6036745406824,308.267716535433
+DDH3,93.96,95.87,fr,Gyp,CY,f,whbn,70,3,,Pure white gypsum in upper part of interval; decreasing downward.,308.267716535433,314.53412073490813
+DDH3,95.87,102.59,fr,CY,CC,f,bn,20,1,,Occasional calcite blebs in upper part.,314.53412073490813,336.5813648293963
+DDH3,102.59,104.35,fr,CC,CY,f,whbn,80,3,,Calcrete decreasing to muddy calcrete downward.,336.5813648293963,342.3556430446194
+DDH3,104.35,105.77,fr,CY,CC,f,bnwh,50,2,,Brown clay with short intervals of muddy calcrete.,342.3556430446194,347.01443569553805
+DDH3,105.77,107.29,,,,,,,,,No recovery.,347.01443569553805,352.00131233595806
+DDH3,107.29,108,fr,CY,,f,bn,40,2,,Very poor recovery.,352.00131233595806,354.3307086614173
+DDH3,108,108.81,fr,,,,,,,,Granite & basalt cobbles or boulders. Bottom of ancient basin(?).,354.3307086614173,356.98818897637796
+,,EOH,,,,,,,,,,,

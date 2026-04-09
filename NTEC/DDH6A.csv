@@ -1,0 +1,11 @@
+Hole_id,DDH6A,Unnamed: 2,Unnamed: 3,Date Start  31/07/2018,Unnamed: 5,Unnamed: 6,Unnamed: 7,Date Finish  1/08/2018,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13
+,,,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks,,
+DDH6A,0,8.23,w,CO,,,,,,,,0.0,27.001312335958005
+DDH6A,8.23,12.16,w,CY,,f,gn,,2,p,,27.001312335958005,39.89501312335958
+DDH6A,12.16,13.02,w,CY,CC,f,gngy,10,2/3,P,CC interbeds,39.89501312335958,42.71653543307087
+DDH6A,13.02,14.95,w,CY,,f,gngy,,2,p,,42.71653543307087,49.0485564304462
+DDH6A,14.95,15.6,w,CY,CC,f,gngy,10,2/3,,CC rich CY,49.0485564304462,51.181102362204726
+DDH6A,15.6,16.9,w,CY,,f,brgn,,2,p,,51.181102362204726,55.44619422572178
+DDH6A,16.9,17.37,w,CY,,f,brgy,,2,p,,55.44619422572178,56.988188976377955
+,EOH,,,,,,,,,,,,

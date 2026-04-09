@@ -1,0 +1,46 @@
+Hole_id,DDH4,Unnamed: 2,Unnamed: 3,Date Start  6/08/2018,Unnamed: 5,Unnamed: 6,Unnamed: 7,Date Finish  23/08/2018,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13
+,,,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks,,
+DDH4,0,8.23,,CO,,,,,,,,0.0,27.001312335958005
+DDH4,8.23,8.7,W,CY,,f,gn,,1,,,27.001312335958005,28.543307086614174
+DDH4,8.7,10.11,W,CY,,f,bn,,1,,,28.543307086614174,33.169291338582674
+DDH4,10.11,11.22,sox,CY,,f,gn,,1,,,33.169291338582674,36.811023622047244
+DDH4,11.22,12.8,sox,CY,,f,bn,,1,,,36.811023622047244,41.99475065616798
+DDH4,12.8,13.5,sox,CY,,f,gn,,1,,,41.99475065616798,44.29133858267716
+DDH4,13.5,15.85,sox,CY,,f,bn,,1,,,44.29133858267716,52.001312335958005
+DDH4,15.85,17.9,sox,CY,,f,gn,,1,,,52.001312335958005,58.727034120734906
+DDH4,17.9,21.4,sox,CY,,f,gn,,2,p,,58.727034120734906,70.20997375328083
+DDH4,21.4,25.8,sox,CY,,f,gy,,3,p,,70.20997375328083,84.64566929133858
+DDH4,25.8,36,sox,CY,,f,gybrn,,3,,lost circulation and start of poor recovery ,84.64566929133858,118.11023622047244
+DDH4,36,40,sox,CY,,f,bn,,2,,wash out/channel scour and fill w/ granite and basalt clasts,118.11023622047244,131.23359580052494
+DDH4,40,41.3,sox,SS,,mc,bngy,,3,,unconsolidated sandy zone,131.23359580052494,135.498687664042
+DDH4,41.3,43.28,sox,T,,m,bngy,,2,,,135.498687664042,141.99475065616798
+DDH4,43.28,46.33,,,,,,,,,no recovery,141.99475065616798,152.001312335958
+DDH4,46.33,47.1,sox,T,,m,bn,10,2,,minor sand and clay,152.001312335958,154.5275590551181
+DDH4,47.1,47.7,sox,T,,m,gy,10,2,,becoming lt gy towards bottom of interval,154.5275590551181,156.49606299212599
+DDH4,47.7,49.48,fr,CC,,,wh,,3,,bright green epidote? at bottom of interval,156.49606299212599,162.33595800524932
+DDH4,49.48,52.4,sox,CY,,f,gngy,,2,p,minor tuffaceous intervals (<10cm thick),162.33595800524932,171.91601049868765
+DDH4,52.4,53.95,sox,CY,,f,bngy,,1,p,minor tuffaceous intervals (<10cm thick); becoming lt gy towards bottom of interval,171.91601049868765,177.001312335958
+DDH4,53.95,57,,,,,,,,,no recovery,177.001312335958,187.00787401574803
+DDH4,57,57.4,sox,CY,,f,gy,5-10,1,p,some basalt clasts at very top of interval,187.00787401574803,188.3202099737533
+DDH4,57.4,58.8,sox,CY,,f,bn,,2,,some wh carbonate mottling (root traces?) at top of interval; minor tuffaceous zones,188.3202099737533,192.91338582677164
+DDH4,58.8,60,w,T,CY,fm,gy,10,2,,reworked ash and clay,192.91338582677164,196.8503937007874
+DDH4,60,63.09,w,T,,m,bngy,15,3,p,reworked ash and clay; some mottling; some interbedded LS clasts,196.8503937007874,206.98818897637796
+DDH4,63.09,66.9,fr,LS,,f,whgy,100,3,,"vuggy, dissolution cavities",206.98818897637796,219.48818897637796
+DDH4,66.9,67.67,fr,CC,,,wh,20,3,,some mottling; calcite veinlets,219.48818897637796,222.01443569553805
+DDH4,67.67,72.24,fr,CC,LS,f,whbn,40,3,,poor recovery zone; calcite veinlets,222.01443569553805,237.00787401574803
+DDH4,72.24,74,fr,LS,,f,bn,100,3,,abundant calcite veinlets; minor clay at 73.76 w/ some granite clasts,237.00787401574803,242.78215223097112
+DDH4,74,81.38,fr,LS,,f,wh,100,3,,"vuggy zones, abt calcite veins at 76-76.81; some interbedded clays; minor gn clay w/ basalt clasts at 78.33",242.78215223097112,266.994750656168
+DDH4,81.38,86.17,sox,CY,,f,bn,,1-2,c,minor gn clay w/ basalt clasts at top of interval; minor tuffaceous zones; mottled and soft sediment deformation,266.994750656168,282.70997375328085
+DDH4,86.17,88.15,sox,CY,CC,f,bngy,20,2,c,mottled clay w/ CC beds,282.70997375328085,289.20603674540683
+DDH4,88.15,88.8,sox,CY,,f,bn,,2,p,minor mottling,289.20603674540683,291.33858267716533
+DDH4,88.8,89,soxfr,CY,CC,f,whbn,20,2,,muddy calcrete,291.33858267716533,291.994750656168
+DDH4,89,92,,,,,,,,,no recovery,291.994750656168,301.83727034120733
+DDH4,92,93.8,w,CY,,f,bn,80,1,s,Silty. 3cm of mg silicified SS @ 91.90.,301.83727034120733,307.742782152231
+DDH4,93.8,96.62,w,CY,CC,f,bnwh,10,2,,muddy calcrete,307.742782152231,316.994750656168
+DDH4,96.62,98.6,w,CC,,,wh,90,3,,Occas vugs. Occas sm pebbles.,316.994750656168,323.49081364829397
+DDH4,98.6,99.73,w,CY,CC,fm,bnwh,50,2,,Unconsol soft mud w/ blebs of CC. CC increases downward.,323.49081364829397,327.1981627296588
+DDH4,99.73,102.6,w,CY,,fm,gnbn,5,1,s,Non-calc in upper part. Mnr CC blebs.,327.1981627296588,336.61417322834643
+DDH4,102.6,106,w,CY,CC,fm,bnwh,,2,s,Sltst w/ CC interbeds. Poor recovery.,336.61417322834643,347.7690288713911
+DDH4,106,107.3,w,T,,f,wh,,1,,V poor recovery.,347.7690288713911,352.03412073490813
+DDH4,107.3,108.81,w,CY,CC,f,bn,,2,,V poor recovery.,352.03412073490813,356.98818897637796

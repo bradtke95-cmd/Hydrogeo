@@ -1,0 +1,10 @@
+Hole_id,DDH8,Unnamed: 2,Unnamed: 3,Date Start  31/08/2018,Unnamed: 5,Unnamed: 6,Unnamed: 7,Date Finish  02/09/2018,Unnamed: 9,Unnamed: 10,Unnamed: 11
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DDH8,12.8,21.9,w,CC,CY,f,whgy,80,3,,Muddy calcrete. One fragment of black tuffaceous limestone @ 20.43.
+DDH8,21.9,22.9,fr,CY,CC,f,gywh,60,3,,Gray clay w/ irregular blebs of calcite.
+DDH8,22.9,27.64,fr,CC,CY,f,whgy,80,1,,Interbedded calcrete & gray clay.
+DDH8,27.64,32.88,fr,CY,,f,bn,30,2,,Stringers & blebs for calcite. Vugs lined w/ calcite @ 28.40 - 28.80.
+DDH8,32.88,37.19,fr,CY,,f,bnrd,25,2,s,"Reddish brown, silty & sandy. Occassionally laminated."
+DDH8,37.19,52.43,wfr,B,CY,b,rdbn,3,1,,Weathered & occasionally fresh (w/ epidote) basalt boulders in reddish brown mud matrix.
+,,TD,,,,,,,,,
