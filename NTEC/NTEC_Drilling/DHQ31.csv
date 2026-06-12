@@ -1,0 +1,8 @@
+Hole_id,DHQ31,,,Date Start  29/05/2019,,,,Date Finish 30/05/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ31,0,15,,CO,,,,,,,surficial colluvium
+DHQ31,15,17.48,w,CY,,f,bngy-bn,20-30,2,p-s,
+DHQ31,17.48,52.58,sox/w,CC/LS,CY,fm,wh-whbn,60-70,3,p-s,bright gn and wh & bn banded tufa-CY tuff 19.47-19.61 and 19.89-20.03 (marker bed)
+DHQ31,52.58,53.93,w,T/CY,SAND,fc,gn-gnbn,10,2,s,
+DHQ31,53.93,55.47,fr,B,scoria,,blk-rdbn,,2,,

@@ -1,0 +1,18 @@
+Hole_id,DHQ16,,,Date Start  10/06/2019,,,,Date Finish 12/06/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ16,0,6.71,,CO,,,,,,,surficial colluvium
+DHQ16,6.71,9.8,w,CY,SLT,vf,gn,10,1,c-s,
+DHQ16,9.8,14.29,w,CY,,f,bn,5,2,s-p,
+DHQ16,14.29,24.42,w,CY,,fm,gywh,40-50,3,p-s,
+DHQ16,24.42,31.05,w,CY,,fm,bnwh,40-50,2,p-s,
+DHQ16,31.05,31.16,w,CY/T,,fm,gn,20,1,s,gn banded sandy CY tuff; marker bed
+DHQ16,31.16,43.28,w,CY,CC/LS,fm,gywh-bnwh,40-50,3,p-s,
+DHQ16,43.28,46.86,w,CY,CC/LS,,wh-gywh,20-30,2,p,
+DHQ16,46.86,49.64,w,CY,,f,bn,10-15,3,p-s,
+DHQ16,49.64,50.36,w,CY,CC/LS,,wh-gywh,50-60,3,p,
+DHQ16,50.36,51.33,w,CY,,,gn-gnbn,5,1,p-s,
+DHQ16,51.33,53.45,w,CY,,f,bngy-bn,20-30,2,p-s,
+DHQ16,53.45,54.93,w,CY,CC,,wh,20-30,2,p,
+DHQ16,54.93,66.6,w,CY,,fm,gy-gybn,20-30,3,p-s,
+DHQ16,66.6,70.71,sox,T/CY,CC/LS,fc,bnwh,30-40,3,s,

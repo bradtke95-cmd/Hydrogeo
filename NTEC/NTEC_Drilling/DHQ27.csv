@@ -1,0 +1,30 @@
+Hole_id,DHQ27,,,Date Start  21/05/2019,,,,Date Finish 22/05/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ27,0,3.66,,CO,,,,,,,surficial colluvium
+DHQ27,3.66,6,w,CY,SAND,fm,bn,10,3,s,bn sandy CY w/ abt wh carbonate root trace mottling; loose & unconsolidated
+DHQ27,6,18.9,w,CO,,,,,,,surficial colluvium
+DHQ27,18.9,19.21,w,CY,,,gnbn,10,1,p,
+DHQ27,19.21,20.17,w,CY,,fm,bn,10,1,s,
+DHQ27,20.17,23.65,w,CY,,,gn-gnbn,10,1,p,
+DHQ27,23.65,31.37,w,CY,,,bn,5-10,1,p-c,
+DHQ27,31.37,38.89,w,CY,,,gn-gngy,10-20,2,p,
+DHQ27,38.89,41.79,w,CY,,,bngy,5,1,p,
+DHQ27,41.79,42.23,w,CY,,,whgy,30-40,2,p,
+DHQ27,42.23,43.28,w,CY/T,TUFA,fm,bnwh-gnwh,40-50,2,s,wh & bn banded tufa grading into gn & wh banded sandy CY tuff; marker bed
+DHQ27,43.28,44.6,w,CY,,,gy-gybn,30-40,2,p-s,
+DHQ27,44.6,48.38,w,CY,,f,bn,5-10,1,p-s,
+DHQ27,48.38,52.35,w,CY,,,gybn,40-50,2,p-s,
+DHQ27,52.35,52.83,w,CY,T/SS,f,whgn,,1,s,
+DHQ27,52.83,59.93,w,CY,,f,gybn-gy,30-40,2,p-s,
+DHQ27,59.93,60.96,sox,CC,CY,,wh-whgy,80-90,3,p,
+DHQ27,60.96,62.5,w,CY,,,gn,5,1,p,
+DHQ27,62.5,67.46,w,CY,,,gnbn-gngy,20-30,2,p,
+DHQ27,67.46,70.71,sox,CC/LS,TUFA,fm,bnwh,60-70,3,s,
+DHQ27,70.71,72.1,sox,CC/LS,,,wh,90,3,,
+DHQ27,72.1,73.95,w,CY/T,,f,dkgy-ltgy,20,3,p-s,
+DHQ27,73.95,74.81,w,CY,,,gngy-gnbn,5-10,2,p,
+DHQ27,74.81,78.07,w,CY,,fm,bn,10-15,2,p-s,
+DHQ27,78.07,80.22,w,CY/T,,fm,gnbn-bn,5-10,2,p-s,
+DHQ27,80.22,82.3,sox,CC/LS,CY,fm,bnwh,60-70,3,p,
+DHQ27,82.3,82.91,sox,TUFA,CY,f,whbn-pk,30-40,2,s,

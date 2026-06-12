@@ -1,0 +1,44 @@
+Hole_id,DHQ4,,,Date Start  28/02/2019,,,,Date Finish  03/03/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ4,0,11.43,,CO,,,,,,,"surficial colluvium (sand, basalt & granite cobbles/boulders)"
+DHQ4,11.43,12.43,w,CY,,,gngy,,,p,gn CY becoming gy at btm
+DHQ4,12.43,14.18,w,CY,,,gy,,,p,"wh mottling; gn CY zones at 13.2-13.26m, 13.86-13.90m"
+DHQ4,14.18,16.17,w,CY,,,gygn,,,p,minor mottling
+DHQ4,16.17,18.83,w,CY,,,gy,,,,abt wh mottling
+DHQ4,18.83,19.64,w,CY,,,ltgy,,,p,ashy
+DHQ4,19.64,20.85,w,CY,,,gygn,,,p,high alteration
+DHQ4,20.85,21.68,w,CY,,,gy,,,,abt wh mottling
+DHQ4,21.68,22.5,w,CY,,,gngy,,,p,some bn CY mix
+DHQ4,22.5,23.4,w,CY,,,gy,,,p,abt wh mottling
+DHQ4,23.4,26.23,w,CY,,,gnbn,,,p,minor mottling; becomes more gngy at btm
+DHQ4,26.23,27.18,w,CY,CC,,gywh,,s,p,abt wh mottling; minor bn CY
+DHQ4,27.18,27.7,w,CY,CC,,gnwh,,s,p,bright gn mottling
+DHQ4,27.7,27.92,sox,SS,CY,fm,bngn,,,,bn SS with gn CY mix
+DHQ4,27.92,29.1,w,CY,,,gy,,,p,some wh mottling
+DHQ4,29.1,32,w,CY,,,bn,,,p,gn CY at 29.25-29.38m
+DHQ4,32,33.8,w,CY,,,gybn,,,p,abt wh mottling
+DHQ4,33.8,35.85,w,CY,,,gn,,,p,minor wh mottling; becoming more gy towards btm
+DHQ4,35.85,37.61,w,CY,,,gywh,10-15,s,p,gywh CY with dark mottling
+DHQ4,37.61,41.41,w,CY,,,gngy,,,p,minor wh mottling; few gy CY zones IB
+DHQ4,41.41,41.85,w,CY,,,gywh,10-15,s,p,abt wh mottling
+DHQ4,41.85,42.75,w,CY,,,gngy,,,p,minor wh mottling
+DHQ4,42.75,44.4,w,CY,,,gnbn,,,p,minor gn mottling/small blebs
+DHQ4,44.4,48.93,w,CY,,,gnblu,,,p,gnblu high alteraltion CY zone
+DHQ4,48.93,51.44,w,CY,,,gngy,10-20,s,p,abt wh mottling & gy CY mix
+DHQ4,51.44,53.54,w,CY,,,gnblu,,,p,becoming more gy CY towards btm
+DHQ4,53.54,54.56,w,CY,CC,,gngy,10-20,s,p,abt wh mottling & some wh CC
+DHQ4,54.56,56.65,sox,CC,CY,,whgy,30+,s,,some gn-gngy mottling
+DHQ4,56.65,57,w,CY,,,gygn,20,s,p,some dkgn & wh mottling
+DHQ4,57,59.66,sox,CY,CC/LS,,wh,30+,s,,wh CC/LS with abt gy mottling
+DHQ4,59.66,60.35,w,CY,,,gy,,,p,minor wh mottling
+DHQ4,60.35,60.9,w,CY,,,gngy,,,p,waxy dk gngy CY
+DHQ4,60.9,64.38,w,CY,,,gybn,10-20,s,p,abt wh mottling
+DHQ4,64.38,65.1,w,CC,CY,,whgy,30+,s,,wh CC with gy mottling & gy CY mix
+DHQ4,65.1,66.14,w,CY,CC,,gybn,20,s,,wh mottling; some sandy zones
+DHQ4,66.14,69.61,w,CY,T,m,bn,,,,some wh mottling; bn CY & bn sandy tuff mix; some wh LS IB & blebs
+DHQ4,69.61,70.34,sox,LS,CY,,wh,30+,s,,broken wh LS with whbn CY IB & mix; bright gn at btm of interval
+DHQ4,70.34,70.69,sox,T,,fm,bn,,,,bedded & mottled bn sandy tuff
+DHQ4,70.69,72.24,sox,LS,,,wh,,,,wh LS with bn & gy mottling
+DHQ4,72.24,78.33,sox,T,LS,mc,bn,,,,bn sandy tuff with abt wh LS & CC; wh LS/CC mix at btm of hole
+,,EOH,,,,,,,,,

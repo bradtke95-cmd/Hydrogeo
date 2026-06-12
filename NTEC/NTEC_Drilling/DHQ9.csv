@@ -1,0 +1,24 @@
+Hole_id,DHQ9,,,Date Start  22/03/2019,,,,Date Finish 24/03/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ9,0,3.72,,CO,,,,,,,surficial colluvium
+DHQ9,3.72,5,w,CY,SAND,fc,bn,,,s,bn sandy CY; unconsolidated
+DHQ9,5,7.44,w,CY,,,bn,,,,bn cy; fissile & not competent
+DHQ9,7.44,7.81,sox,CC,,,wh,100,3,,wh CC & v abt carbonate
+DHQ9,7.81,8.49,w,T,CY,fm,gy,5-10,2,,gy CY tuff w/ minor wh mottling & carbonate nodules
+DHQ9,8.49,9.1,w,CY,T,fm,gn,,2,s,gn sandy CY tuff; banded & mottled; marker bed?
+DHQ9,9.1,10.74,w,CY,T,fm,gngy-gnbn,5-10,2,s,gngy sandy tuff grading into gnbn CY; some banding & mottling
+DHQ9,10.74,14.46,w,T,CY,fm,gy,30-40,3,,gy ashy tuff & CY w/ mod wh mottling & carbonate nodules
+DHQ9,14.46,18.49,w,CY,T/CC,fm,bnwh,50-60,3,,bn ashy CY w/ v abt whgy CC & mottling; abt carbonate nodules; some calcite veining; gn banded & mottled CY tuff 14.86-15.00 & 15.13-15.18
+DHQ9,18.49,24.35,w,CY,,,bn,20-30,3,p,bn CY w/ zones of wh carbonate mottling & nodules; some gy CY IB; gn CY tuff at 19.73-19.78
+DHQ9,24.35,28.17,sox,CC/LS,CY,,whbn,80-90,3,,bnwh CC/LS w/ abt bn mottling; broken w/ nodules & some sm vugs
+DHQ9,28.17,29.06,sox,CY,T,,whbn,,3,,banded & mottled w/ gn at 29.00-29.06
+DHQ9,29.06,31.36,sox,T,tufa?,,bnwh,60-70,3,,bn sandy tuff/tufa w/ abt wh carbonate mottling & nodules; calcite veining; gn banding & mottling at 30.30-30.38
+DHQ9,31.36,34.59,sox,CC/LS,,,whbn,100,3,,whbn CC/LS w/ some mottling & vugs; some broken zones & some bn CY mix & IB
+DHQ9,34.59,38.1,sox,CY,CC,,bnwh,80-90,3,,bn CY & v abt wh carbonate mottling and nodules; some broken zones & sm vugs
+DHQ9,38.1,43.31,sox,CC/LS,tufa?,,bnwh,90-100,3,,bnwh CC/LS/tufa w/ minor bn CY mix & IB; broken & mottled w/ mod vugs; calcite veining; lg vug at 40.0-40.22; some banded zones
+DHQ9,43.31,47.6,sox,CC/LS,CY,,whbn,90,3,,whbn CC/LS w/ abt bn & some gy CY mottling; calcite veins & carbonate nodules; broken & vuggy zones; bngn-gygn CY IB towards btm
+DHQ9,47.6,50,sox,CC/LS,CY,,whgy,90,3,,whgy CC/LS w/ abt gy & some bn CY mottling & mix; broken & vuggy zones
+DHQ9,50,52,sox,T,CY,fm,gn,10-20,2,,gn-gngy CY tuff w/ some lapilli frags; minor banding & carbonate nodules; becomes more whgn tufa w. gn banding at btm
+DHQ9,52,58.83,sox,CC/LS,tufa?,,whgn,100,3,,wh CC/LS & tufa; some gn mottling & banding; broken & vuggy; some lapilli frags; some carbonate nodules; becomes more bnwh at btm of DH
+,,EOH,,,,,,,,,

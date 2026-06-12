@@ -1,0 +1,30 @@
+Hole_id,DHQ21,,,Date Start  11/04/2019,,,,Date Finish 12/04/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ21,0,3.66,,CO,,,,,,,surficial colluvium
+DHQ21,3.66,4.16,w,CY,,,bn,,0,c,bn CY w/ minor root trace mottling
+DHQ21,4.16,6.52,w,CY,,,gnbn,,1,c,gnbn CY w/ minor root trace mottling
+DHQ21,6.52,12.8,w,CY,,,bn,,0,p-c,bn CY w/ some mottling; some gnbn CY IB
+DHQ21,12.8,13.83,w,CY,,,gnbn,,1,p,gnbn CY w/ some bn CY IB & mix
+DHQ21,13.83,16.96,w,CY,,,gn,,2,p,gn CY w/ some mottling; few sandy/ashy zones
+DHQ21,16.96,17.95,w,CY,,,bn,,1,p,bn CY w/ some gn CY IB & mix
+DHQ21,17.95,20.26,w,CY,,,gnbn,,1,p,gnbn CY w/ some sandy zones
+DHQ21,20.26,22.4,w,CY,,,gn,,2,p,gn CY w/ some bn CY mottling; waxy; becomes more gngybn & ashy towards btm
+DHQ21,22.4,23,w,CY,,,gy,10-20,2,p,gy cy w/ some wh carbonate mottling & nodules; becomes more wh CY at btm
+DHQ21,23,23.1,w,CY,,,bnrd,,2,p,bnrd CY; greasy & waxy
+DHQ21,23.1,31.34,w,CY,,,gygn,20-30,2,p,gygn CY w/ mod wh carbonate mottling & nodules
+DHQ21,31.34,34.18,w,CY,,,bngy,20,1,p,bngy CY w/ some wh carbonate mottling & nodules
+DHQ21,34.18,35.53,sox,CC/LS,TUFA,,whgy,60-70,3,,whgy CC/LS/tufa w/ some wh carbonate & calcite; mottled w/ some gy & bn CY
+DHQ21,35.53,36.05,sox,TUFA,CY,,bnwh,,1,p-c,bn & wh banded tufa & CY
+DHQ21,36.05,36.81,sox,TUFA,CY/TUFF,vf,gnwh,,0,p-s,gn & wh banded tufa/CY; becomes more sandy tuff towards btm
+DHQ21,36.81,38.25,w,CY,,,bngy,20-30,3,p,bngy CY w/ some wh carbonate mottling & nodules
+DHQ21,38.25,40.61,w,CY,,,bn,,1,p,vari-shade bn CY w/ some minor carbonate and dkgy CY mottling & IB
+DHQ21,40.61,53.71,w,CY,TUFF,fm,gybn,30-40,2,p-s,alternating zones of gybn-bn-gy CY & tuff w/ & without mod wh carbonate mottling & nodules; some sandy/ashy zones; some gnbn CY IB & mix
+DHQ21,53.71,55.65,w,CY,TUFF,vf,gn,,3,c-s,gn CY tuff w/ some mottling; some ashy/vf sandy zones
+DHQ21,55.65,60.93,w,CY/TUFF,CC/LS,f,gygn,50-60,3,s,gygn CY/tuff w/ abt wh carbonate mottling & nodules; some sandy/ashy zones; some bngy CY IB & mix
+DHQ21,60.93,64.37,sox,CC/LS,CY/TUFF,f,whgy,90,3,,wh CC/LS w/ some gy CY mottling & IB; abt wh calcite; some broken zones; vuggy
+DHQ21,64.37,67.67,w,CY/TUFF,CC/LS,f,gygn,30-40,2,c-s,gy CY w/ mod wh carbonate mottling & nodules; sojme lapilli in ashy/sandy zones; becomes more gn towards btm
+DHQ21,67.67,68.12,w,CY/TUFF,,f,bn,10,3,s-c,bn CY tuff w/ minor carbonate mottling & nodules
+DHQ21,68.12,70.71,w,CY/TUFF,CC/LS,f,gn,30,,s-c,gn CY tuff w/ wh carbonate mottling & nodules; wh CC/LS IB at 68.27-68.61 which is vuggy w/ calcite; sandy/ashy zones in gn CY tuff
+DHQ21,70.71,77.39,sox,CC/LS,CY/TUFF,f,whbn,60-70,3,,wh CC/LS w/ bn sandy CY tuff; abt wh calcite; some broken & sandy zones; vuggy; bnrd CY IB at 75.73-76.03
+DHQ21,77.39,79.86,sox,TUFF/CY,CC/LS,fm,bnwh,50-60,3,s,bn sandy CY tuff w/ mod wh CC/LS IB; mottling & nodules; some broken & vuggy zones; some tufa zones

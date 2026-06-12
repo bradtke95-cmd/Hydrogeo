@@ -1,0 +1,30 @@
+Hole_id,DHQ23,,,Date Start  15/04/2019,,,,Date Finish 16/04/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ23,0,12.8,,CO,,,,,,,surficial colluvium; sand w/ grainte & basalt boulders
+DHQ23,12.8,15.83,w,CY,,,bn-gnbn,5-10,2,p,bn & bngn CY w/ root trace mottling; some wh carbonate nodules & IB
+DHQ23,15.83,18.9,sox,CC/LS,CY,,whbn,50-60,3,s,whbn CC/LS & tufa w/ some bn CY mottling & IB; some calcite; some broken & sandy zones
+DHQ23,18.9,24.24,w,CY,CC/LS,,bnwh,30-40,2,,"bn-bngy CY w/ mod wh CC/LS mottling, nodules & IB at 21.37-21.95"
+DHQ23,24.24,28.22,sox,CC/LS,CY,,whbngy,70-80,3,,wh CC/LS w/ some bn & gy CY mottling & IB
+DHQ23,28.22,34.81,w,CY,CC/LS,,bnwh,40-50,2,p-c,"bn CY w/ abt wh carbonate mottling, nodules & IB; bright gn at 29.30 & 29.81"
+DHQ23,34.81,35.31,sox,CC/LS,TUFA,,wh,,3,,wh CC/LS grading into wh & bn banded tufa
+DHQ23,35.31,36.09,w,CY/T,,f,gnwh,,2,s,gn & wh banded CY tuff; marker bed
+DHQ23,36.09,39.26,w,CY,CC/LS,,bnwh,50-60,3,p-s,"bn CY w/ abt wh CC/LS mottling, nodules & IB; some tufa zones w/ calcite; bright gn at 36.20 & 38.04; some vugs"
+DHQ23,39.26,40.34,sox,CC/LS,TUFA,,bnwh,90,3,,bnwh CC/LS w/ minor bn CY mottling & IB; tufa zones w/ abt calcite; some vugs
+DHQ23,40.34,43,w,CY,CC/LS,,bnwh,50,3,s,bn CY w/abt wh carbonate mottling & nodules; minor bn sandy CY; becomes more tufa w/ calcite at btm
+DHQ23,43,50.02,sox,CC/LS,TUFA,,bnwh,80,3,s,bnwh CC/LS w/ alternating banded sandy tufa zones; some bn CY mottling & IB; abt calcite; vuggy
+DHQ23,50.02,52.05,sox,CC/LS,CY,,whbn,80-90,3,p,wh CC/LS w/ some bn & gy CY mottling & IB; abt wh carbonate nodules; some calcite & vugs
+DHQ23,52.05,54.05,w,CY,CC/LS,,bngywh,30-40,2,p-s,bn-bngy CY w/ mod wh carbonate mottling & nodules; some sandy bn CY IB; minor banding
+DHQ23,54.05,54.7,sox,CC/LS,,,bnwh,95,3,,bnwh CC/LS w/ v minor bn CY mottling; some vugs
+DHQ23,54.7,56.04,w,CY,,,bn,20-30,2,p-s,bn sandy CY w/ bnwh carbonate mottling & nodules
+DHQ23,56.04,58.55,w,CY,CC/LS,,gnwh,50-60,3,p,gn CY w/ abt wh carbonate mottling & nodules
+DHQ23,58.55,59.07,sox,CC/LS,,,wh,100,3,,wh CC/LS w/ v minor gy CY mottling; vuggy
+DHQ23,59.07,60.83,w,CY,,,gngy-bn,10-20,2,p,alternating gngy & bn CY w/ some wh carbonate mottling & nodules; some banding
+DHQ23,60.83,62.41,sox,CC/LS,,,wh,90,3,,wh CC/LS w/ minor gy CY mottling; broken & vuggy
+DHQ23,62.41,63.54,w,CY,CC/LS,,gygnwh,50-60,2,p-s,gygn CY w/ abt wh carbonate mottling & nodules; some sandy CY zones
+DHQ23,63.54,70.71,sox,CC/LS,CY,,whgy,80-90,3,,whgy CC/LS w/ some gy CY mottling & IB; some banding; becomes bn at btm
+DHQ23,70.71,73.85,w,CY,T,fm,gn,10,2,p-s,gn-gngy sandy CY tuff w/ ashy/sandy zones; some banding/bedding; few wh carbonate nodules & motting; some lapilli
+DHQ23,73.85,74.17,sox,CC/LS,,,wh,100,3,,wh CC/LS w/ some whgy CY mottling; some banding
+DHQ23,74.17,77.79,sox/w?,CY/T,SS,fc,bnrd,10,1,s,bnrd sandy tuff & bnrd SS; banded/bedded; few ejecta basalt frags; few whbn calcareous IB; v coarse grained sand at btm
+DHQ23,77.79,80.1,sox/w?,T/scoria?,,fc,rdbn,,0,,rdbn sandy CY tuff/scoria? w/ abt 1-2+ cm basalt frags
+DHQ23,80.1,82.91,f,B,,,blk-blkgn,,,,blk-blkgn basalt w/ top 5cm altered/baked; some fractures filled w/ calcite & gn chlorite

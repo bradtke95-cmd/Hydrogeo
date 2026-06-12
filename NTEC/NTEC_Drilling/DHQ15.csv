@@ -1,0 +1,21 @@
+Hole_id,DHQ15,,,Date Start  31/05/2019,,,,Date Finish 03/06/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ15,0,4,,CO,,,,,,,surficial colluvium
+DHQ15,4,5.89,w,CY,,,bn,<5,1,c-s,
+DHQ15,5.89,7.16,w,CY,,f,gn,<5,1,c-s,
+DHQ15,7.16,9.59,w,CY,,fm,gnbn,<5,1,c-s,
+DHQ15,9.59,13,w,CY,,f,bn,<5,1,c-s,
+DHQ15,13,15.18,w,CY,,f,gn-gnbn,5,1,c-s,
+DHQ15,15.18,20.25,w,CY,,f,gywh,40-50,2,p-s,
+DHQ15,20.25,22.46,w,CY,,f,bngy-bn,10-15,2,p-s,
+DHQ15,22.46,23.23,w,CY,,,gywh,5060,2,p,
+DHQ15,23.23,28.88,w,CY,,f,bngy-bn,10-15,2,p-s,
+DHQ15,28.88,29.6,w,CC,,,wh,100,3,,
+DHQ15,29.6,30.55,w,CY/T,TUFA,fm,bn-wh-gn,50,2,s,bn & wh banded tufa grading down into gn & wh banded tufa and sandy CY tuff; marker bed
+DHQ15,30.55,32.06,w,CY,TUFA,,bngy-bn,50-60,3,p-s,
+DHQ15,32.06,34.97,w,CY,,,bn,10-15,2,p-s,
+DHQ15,34.97,48.39,w,CY,,,gywh,40-50,2,p-s,
+DHQ15,48.39,65.06,w,CY,,f,blugn,10-20,1,p-s,
+DHQ15,65.06,66.9,w,CY,,fm,bngy-bn,20-30,3,p-s,
+DHQ15,66.9,76.81,sox,CC/LS,CY/T,fm,bnwh,40-50,3,s,

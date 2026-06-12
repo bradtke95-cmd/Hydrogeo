@@ -1,0 +1,42 @@
+Hole_id,DDH6,,,Date Start  26/07/2018,,,,Date Finish  3/08/2018,,,,,
+,,,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks,,
+DDH6,0,14.33,w,CO,,f,br,,,,Colluvium,0,47.0144357
+DDH6,14.33,15.2,w,CY,,m,gnbr,,,s,Sandy clay,47.0144357,49.8687664
+DDH6,15.2,15.9,w,CY,,f,gnbr,,,p,Puggy clay,49.8687664,52.16535433
+DDH6,15.9,20,w,CY,,m,gy,,,s,Sandy clay,52.16535433,65.6167979
+DDH6,20,20.47,w,CY,,f,brgy,,,s,Clayey tuff?,65.6167979,67.15879265
+DDH6,20.47,21.42,w,CY,CC,f,brgy,10,,p,Puggy clay,67.15879265,70.27559055
+DDH6,21.42,23.65,w,CY,,f,brw,,,p,Clay with black specs,70.27559055,77.59186352
+DDH6,23.65,24.1,sox,CC,,m,wbr,60,,s,Weathered LS,77.59186352,79.06824147
+DDH6,24.1,26.6,fr,CC,,f,wh,80,,,LS,79.06824147,87.27034121
+DDH6,26.6,27,sox,CC,CY,f,gnwh,60,,,interbedded LS and CY,87.27034121,88.58267717
+DDH6,27,27.6,w,CY,,f,gybr,,,s,slightly sandy grn white clay,88.58267717,90.5511811
+DDH6,27.6,30.34,w,CY,,f,gybr,10,,,br CY with CC interbeds,90.5511811,99.54068241
+DDH6,30.34,32.45,w,CY,,f,br, ,,p,slightly puggy,99.54068241,106.4632546
+DDH6,32.45,33.32,w,CY,,f,grwh,30,,,calcareous clays,106.4632546,109.3175853
+DDH6,33.32,34.8,w,CY,,f,brgy,,,p,slightly puggy,109.3175853,114.1732283
+DDH6,34.8,41.23,sox,CY,CC,fm,grbn,15,,,sandy to slightly puggy altered tuffs with calcite blobs and concretions + black specks,114.1732283,135.2690289
+DDH6,41.23,42.15,fr,CC,,f,wh,90,,,CC LS,135.2690289,138.2874016
+DDH6,42.15,45.23,soxfr,CY,,fm,gywh,,,,mottled calcareous clays,138.2874016,148.3923885
+DDH6,45.23,46.33,sox,CY,,f,gnbr,,,c,CY with chondial break,148.3923885,152.0013123
+DDH6,46.33,49.1,soxfr,CC,CY,fm,gywhmot,40,3,,mottled broken gywh calcareous clays,152.0013123,161.0892388
+DDH6,49.1,55.47,soxfr,CC,CY,fm,gywhmot,50,3,,broken zone,161.0892388,181.988189
+DDH6,55.47,57.3,soxfr,CY,,f,gngy, ,2,p,,181.988189,187.992126
+DDH6,57.3,58.4,soxfr,CY,,f,br,,2,c,conchoidal fracture,187.992126,191.6010499
+DDH6,58.4,60.1,fr,CY,,fm,gngy,,2,,,191.6010499,197.1784777
+DDH6,60.1,60.6,sox,mud,,,brgn,,2,,fault zone?,197.1784777,198.8188976
+DDH6,60.6,61.11,soxfr,CY,,f,gybr,,2,,,198.8188976,200.492126
+DDH6,61.11,61.7,fr,CC,,,wh,80,3,,,200.492126,202.4278215
+DDH6,61.7,62.6,fr,CY,CC,f,gygn,30,2,p,minor CC interbeds,202.4278215,205.3805774
+DDH6,62.6,66,sox,T,,m,br,,2,s,SS carbonate cemented with calcite vnlts 64-64.4,205.3805774,216.5354331
+DDH6,66,68.19,fr,CC,SS,m,brwh,20,2,s,interbedded SS and CC,216.5354331,223.7204724
+DDH6,68.19,71.23,sox,T,,m,br,,1,s,SS carbonate cemented,223.7204724,233.6942257
+DDH6,71.23,71.58,sox,CY,,f,br,,1,p,,233.6942257,234.8425197
+DDH6,71.58,72.54,sox,T,,m,brgy,,2,,As 68.19-71.23,234.8425197,237.992126
+DDH6,72.54,73.76,fr,CC,,,gywh,70,3,,,237.992126,241.9947507
+DDH6,73.76,76.35,sox,T,,m,brgy,,2,,As 68.19-71.23,241.9947507,250.492126
+DDH6,76.35,81.38,sox,T,CC,m,gywh,30,3,,Intercalated,250.492126,266.9947507
+DDH6,81.38,83.1,sox,T,,mc,rdbr,,2,,Carbonate cemented,266.9947507,272.6377953
+DDH6,83.1,87.48,,T,,mc,rdbr,,,,Acid tuff uncemented sands no recovery,272.6377953,287.007874
+,EOH,,,,,,,,,,,,

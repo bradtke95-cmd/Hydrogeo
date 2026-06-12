@@ -1,0 +1,14 @@
+Hole_id,DHQ20,,,Date Start  17/06/2019,,,,Date Finish 18/06/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ20,0,3.66,,CO,,,,,,,surficial colluvium
+DHQ20,3.66,6.71,w,CY,,f,gn,10-15,3,p-s,
+DHQ20,6.71,13,w,CY,CC,f,bnwh-gywh,50-60,3,s-p,
+DHQ20,13,23.23,sox,CC/LS,CY,fm,wh-bnwh,80-90,3,s,
+DHQ20,23.23,27.87,w,CY,CC/LS,fm,bnwh,40-50,3,s-p,
+DHQ20,27.87,28.47,w/sox,CY/T,TUFA,fm,bn-wh-gn,50-60,3,s,bn & wh banded tufa grading down into bright gn banded sandy/ashy CY tuff; marker bed
+DHQ20,28.47,29.3,w,CY,,f,bnwh,20-30,3,s,
+DHQ20,29.3,37.31,w,CY,CC/LS,fm,bnwh,50-60,3,s,
+DHQ20,37.31,37.93,w,CY,,,bnpk,5,1,p-s,
+DHQ20,37.93,39.53,w/sox,TUFF,CY,fc,bn,15-20,2,s,
+DHQ20,39.53,40.23,fr,B,,,blk,10-15,1,,

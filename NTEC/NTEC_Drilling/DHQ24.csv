@@ -1,0 +1,20 @@
+Hole_id,DHQ24,,,Date Start  16/04/2019,,,,Date Finish 18/04/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ24,0,12.8,,CO,,,,,,,surficial colluvium; sand w/ grainte & basalt boulders
+DHQ24,12.8,13.5,w,CY,,fc,bn,10,1,s,bn sandy CY w/ some wh carb mottling & nodules
+DHQ24,13.5,18.34,sox,CC/LS,CY,,whbn,70-80,3,,"whbn CC/LS w/ bn CY mottling; wh carbonate nodules in bn-bngy CY; some tufa zones; sonme broken & vuggy zones; bright gn at 16.45-16.65, 16.80, 17.75"
+DHQ24,18.34,19.1,w,CY,,,bn,10-20,1,p-s,bn CY w/ wh carbonate mottling & nodules
+DHQ24,19.1,20.18,sox,CC/LS,CY,,whbn,70-80,3,,wh & whbn CC/LS w/ bn CY mottling; wh carbonate nodules; some tufa and broken zones
+DHQ24,20.18,21.4,w,CY,,,bn,10-20,1,p-s,bn CY w/ wh carbonate mottling & nodules
+DHQ24,21.4,31.58,sox,CC/LS,CY,,wh,80-90,3,,"wh-whbn CC/LS w/ some bn & bngy CY mottling and IB; wh carbonate nodules; some tufa, some broken & sandy zones; mod calcite; vuggy"
+DHQ24,31.58,32.65,w,CY/T,CC/LS,fm,gnwhbn,10-20,2,s,wh-gn-bn banded CY tuff; sandy/ashy; some vugs; marker bed
+DHQ24,32.65,37.45,sox,CC/LS,CY,,bnwh,80-90,3,s,wh-whbn CC/LS w/ bn CY mottling & IB; some tufa;  some broken & sandy zones; some calcite; vuggy
+DHQ24,37.45,40.51,sox,TUFA,CC/LS,,whbn,100,3,,whbn tufa and CC/LS; some bn CY w/ wh carbonate nodules; v abt calcite; v vuggy
+DHQ24,40.51,41.29,w,CY,,,bn,10-20,1,s,bn CY w/ wh carbonate mottling & nodules
+DHQ24,41.29,41.8,w,CY,CC/LS,,bnwh,70-80,2,,bn CY w/ abt wh carbonate mottling & nodules
+DHQ24,41.8,48.39,sox,CC/LS,TUFA,,bnwh,100,3,,bnwh CC/LS and tufa; some bn CY IB & mottling w/ wh carbonade nodules; some banding; some broken & sandy zones; v abt calcite; vuggy; bright gn at 46.50
+DHQ24,48.39,52.07,sox,CC/LS,CY/T,fm,gnwh,80,2,s,gnwh CC/LS w/ gn-gngy sandy CY tuff IB; some gn CY mottling; some banding; some broken & vuggy zones
+DHQ24,52.07,56.6,sox,CC/LS,,,whbn,80-90,3,,wh-whbn CC/LS w/ some bn CY mottling w/ wh carbonate nodules; some banding; some broken & sandy zones; some ash & lapilli; vuggy
+DHQ24,56.6,59.44,w,CY/T,scoria?,fc,bn-gnbn,,1,s,bn-gnbn sandy CY tuff w/ abt ash & lapilli frags and fc sand; some bedding/banding; rdbn CY at 58.70
+DHQ24,59.44,61.57,f,B,scoria?,,rdblk-blkgn,,0,,rdblk basalt/scoria w/ mod rd Fe-rich CY in fractures grading into fresh blk-blkgn basalt at btm

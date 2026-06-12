@@ -1,0 +1,28 @@
+Hole_id,DHQ11,,,Date Start  29/03/2019,,,,Date Finish 31/03/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ11,0,15,,CO,,,,,,,"surficial colluvium; sand, basalt & granite boulders and conglomerate"
+DHQ11,15,20.5,w,CY,,,gybn,40-50,2,p,gybn CY w/ mod wh carbonate mottling & nodules; some ashy zones; some gy LS/tufa IB & mix
+DHQ11,20.5,20.9,sox,CC,,,whgy,90+,3,,wh CC w/ some gy mottling
+DHQ11,20.9,22.15,w,CY,CC/LS,,gywh,30-40,2,p,gy-gybn CY w/ mod wh carbonate mottling & nodules; some ashy zones; some gywh CC/LS IB & mix
+DHQ11,22.15,22.77,w,CY,,,bn,10,1,p,bn CY w/ some wh carbonate mottling & sm nodules
+DHQ11,22.77,23.48,w,CY,,,gn,10,1,p,gn waxy CY w/ some wh carbonate & sm nodules
+DHQ11,23.48,24.41,w,CY,,,bn,,0,p-c,variable shades of bn CY
+DHQ11,24.41,28,w,CY,LS/CC,,bnwh,60,2,p-c,bnwh CY w/ abt wh carbonate mottling & nodules; some ashy zones; minor banding
+DHQ11,28,32.39,sox,LS/CC,TUFA,,wh,100,3,,wh LS/CC w/ minor bn CY mottling; some calcite viens & sm vugs; becomes more whbn & whgn banded tufa towards btm; bright gn at 31.35-31.39 and 32.34-34.39
+DHQ11,32.39,35.56,w,CY,LS/CC,,bn,10-20,1,p,bn CY w/ some wh carbonate mottling & nodules; bright gn at 34.90 and 35.51; ashy zone 34.56-34.70
+DHQ11,35.56,37.54,sox,CC,CY,,whbn,70-80,3,,wh CC w/ bn CY mottling; wh carbonate nodules
+DHQ11,37.54,38.93,w,CY,,,gn,5,1,p-c,gn CY w/ minor wh carbonate nodules; becomes more gy & mottled at btm of interval
+DHQ11,38.93,41.2,w,CY,,,gybn,30,2,p-c,gybn CY w/ mod wh carbonate mottling & nodules; some wh CC & LS IB & mix
+DHQ11,41.2,41.97,w,CY,TUFA,f,gnbn,,0,c,banded & mottled gn and bn CY tufa; some sandy and ashy IBs
+DHQ11,41.97,46.63,w,CY,,,gybn,40,2,p-c,gybn CY w/ mod wh carbonate mottlign & nodules; wh waxy-greasy CY at 42.90-43.24 and 46.59-46.63; some banding & sandy zones; whgy CY w/ lapilli & wh carbonate at 45.43-45.63
+DHQ11,46.63,49.1,w,CY,,,bn,15-20,2,p,bn CY w/ some wh carbonate mottling & nodules; some banding and ashy/sandy zones
+DHQ11,49.1,50.04,sox,CC/LS,,,wh,100,3,,wh CC/LS w/ some gy CY mottling & IB
+DHQ11,50.04,51.96,w,CY,,,gnbn,,1,p-c,waxy gnbn CY w/ some ash
+DHQ11,51.96,52.64,sox,CC/LS,,,wh,100,3,,wh CC/LS w/ some gy CY mottling & IB
+DHQ11,52.64,54,w,CY,,,gnbn,5-10,1,p-c,waxy gnbn CY w/ some ash and sand
+DHQ11,54,60.85,sox,LS/CC,,,wh,100,3,,wh LS/CC w/ mod gn & gy CY mottling and IB; some wh carbonate nodules; some broken zones; vuggy
+DHQ11,60.85,67.1,w,CY,T,fm,gnbn,,2,s-p,gn & bn sandy CY tuff w/ minor LS/CC IB & nodules; some banding; becomes mottled w/ wh carbonate at btm; bright gn at 61.0
+DHQ11,67.1,70.52,sox,T,LS/CC,,bn,50-60,2,,"bn sandy tuff w/ abt whbn LS/CC mottling, nodules & IB; some banding; calcite veins & sm vugs"
+DHQ11,70.52,72.12,sox,T,,,whbn-gybn,,1,,"whbn-bn-gybn banded & mottled tuff/tufa w/ calcite veins, wh carbonate nodules & sm vugs; heavily banded w/ some sandy CY towards btm"
+DHQ11,72.12,77.12,sox,LS,T,,whbn,70-80,3,,whbn LS & bn sandy tuff mottled & IB; wh carbonate nodules; some bn CY mottling & IB; calcite veins & vugs

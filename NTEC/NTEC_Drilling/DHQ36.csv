@@ -1,0 +1,23 @@
+Hole_id,DHQ36,,,Date Start  09/05/2019,,,,Date Finish 10/05/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ36,0,6,,CO,,,,,,,surficial colluvium
+DHQ36,6,7.78,w,CY,SAND,fm,bngn,,1,s,
+DHQ36,7.78,12.27,w,CY,,f,bngn,<5,2,p,
+DHQ36,12.27,13.26,w,CY,,fm,gn,<5,3,s,
+DHQ36,13.26,15.22,w,CY,CC/LS,,whgy,30-40,3,p-s,
+DHQ36,15.22,18,w,CY,,f,gybn-gygn,20-30,2,p-s,
+DHQ36,18,21.16,w,CY,,f,bn-bngy,30-40,2,s,
+DHQ36,21.16,23.89,sox,CC/LS,TUFA,f,bnwh,60-70,3,s,
+DHQ36,23.89,24.37,w,CY,,f,bn,10-15,2,s,
+DHQ36,24.37,25.47,sox,CC/LS,,,whbn,80-90,3,,
+DHQ36,25.47,32.04,w,CY,CC/LS,fm,bnwh,60-70,3,p-s,
+DHQ36,32.04,34.51,sox,TUFA,CC,fm,whbn,80-90,3,s,
+DHQ36,34.51,37.09,w,CY,,f,bn,20-30,2,p-s,
+DHQ36,37.09,37.98,w,CY/T,TUFA,fm,whbn-gnwh,10-20,2,s,wh & bn banded tufa grading into gn & wh banded sandy CY tuff; mottled; some Ca/MgCO3 veinlets; vugs; marker bed
+DHQ36,37.98,57.56,sox,CC/LS,CY,fm,bnwh,70-80,3,s,
+DHQ36,57.56,58.84,w,CY/T,,f,gn-gnbn,10-20,1,s,
+DHQ36,58.84,65.69,w,CY,CC/LS,f,bnwh,60-70,3,s,
+DHQ36,65.69,69.01,w,SS,CY/T,fc,gnbn,30-40,3,s,
+DHQ36,69.01,70.97,w,TUFF,SS,fc,bn-rdbn,,1,s,
+DHQ36,70.97,72.24,f,B,,,blk,,1,,

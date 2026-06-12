@@ -1,0 +1,33 @@
+Hole_id,DHQ22,,,Date Start  13/04/2019,,,,Date Finish 14/04/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ22,0,6.65,,CO,,,,,,,surficial colluvium
+DHQ22,6.65,12.8,w,CY,,,bn,,2,p-s,vari-shade bn CY w/ minor root trace mottling; some sandy & broken zones;  
+DHQ22,12.8,16.4,w,CY,,,gn,,1,p-s,vari-shade gn CY w/ minor mottling; bright gn sandy at 14.05-14.25; some broken & ashy zones
+DHQ22,16.4,18.7,w,CY,CC/LS,,gywh,30-40,2,p,gy CY w/ mod wh carbonate mottling & nodules
+DHQ22,18.7,20.71,w,CY,,,bngy,<5,1,p-s,bngy sandy CY w/ minor wh carbonate mottling & nodules
+DHQ22,20.71,23.21,w,CY,CC/LS,,bnwh,50-60,2,p,bn CY w/ abt wh carbonate mottling & nodules
+DHQ22,23.21,28.04,sox,CC/LS,CY,,whbngy,80-90,3,,"wh CC/LS w/ some bn & wh CY IB, mottling & mix"
+DHQ22,28.04,29.17,w,CY,,,bn,5-10,1,p,bn CY w/ minor wh carbonate nodules
+DHQ22,29.17,32.5,sox,CC/LS,,,wh,100,3,,wh CC/LS w/ minor bn & wh CY IB & mottling; some broken zones; vuggy
+DHQ22,32.5,33,w,TUFA,CY,,whbn,,3,,wh & bn banded tufa CY
+DHQ22,33,33.54,w,TUFA,CY/TUFF,,gnwh,,1,,gn & wh sandy tufa CY/tuff; marker bed
+DHQ22,33.54,33.81,w,CY,,,bn,10,3,p,bn CY w/ wh carbonate mottling & nodules
+DHQ22,33.81,35.13,sox,CC/LS,,,whbn,80-90,3,,wh CC/LS w/ some bn CY mottling; some broken & vuggy zones; becomes tufa w/ calcite at btm
+DHQ22,35.13,40.23,w,CY,CC/LS,,bnwh,40-50,3,p-s,bn CY w/ abt wh-whbn carbonate mottling & nodules; some vf sandy/ashy zones; bright gn at 37.60
+DHQ22,40.23,43.46,w,CY,CC/LS,,gywh,40-50,2,p-s,"gy CY w/ abt wh carbonate mottling, nodules & IB; minor sandy/ashy zones; minor bn CY IB"
+DHQ22,43.46,44.39,sox,TUFA,CC/LS,,bnwh,30-40,2,s,bnwh tufa w/ mod calcite; banded & mottled; some sandy IB
+DHQ22,44.39,48.3,sox,CY,CC/LS,,bnwh,20-30,2,s,bn CY w/ some wh-whbn CC/LS mottling & nodules; vf sandy/ashy zones; bright gn at 47.65
+DHQ22,48.3,54.04,w,CY,CC/LS,,gygnwh,40-50,2,p,"gygn CY w/ abt wh carbonate mottling, nodules & IB; some bngn CY IB & mottling; some wh CY IB & mottling (whale spunk)"
+DHQ22,54.04,55.36,w,CY,,,gnbnwh,20,2,p-s,gnbn CY w/ some wh carbonate mottling & nodules
+DHQ22,55.36,56.35,w,CY,,,bn,10-20,2,p-s,bn CY w/ some wh carbonate; gnbn CY at 55.63-55.89
+DHQ22,56.35,59.1,w,CY,CC/LS,,bnwh-gygn,50,2,p-s,alternating bn CY & gngy CY w/ abt wh carbonate mottling & nodules; some sandy zones w/ lapilli
+DHQ22,59.1,60.9,sox,CC/LS,,,wh,100,3,,minor bn & gy CY; broken & vuggy
+DHQ22,60.9,62.14,w,CY,T,f,bngy,,2,s,bngy sandy CY tuff w/ some banding
+DHQ22,62.14,64.24,w,CY/T,SS,fm,gygnwh,,3,s,gygn sandy CY tuff/SS w/ some gn CY mottling; low angle bedding/banding
+DHQ22,64.24,65,sox,CC/LS,,,whgn,90,3,,wh CC/LS w/ gn CY mottling & IB; some calcite; vuggy
+DHQ22,65,67.79,w,SS,CT/T,fm,whgn,,3,s,wh SS & whgn CY tuff; some gn CY IB & mottling; minor bedding/banding
+DHQ22,67.79,68.68,w,CY/T,,f,gn,,2,s,gn sandy CY tuff w/ some banding
+DHQ22,68.68,69.46,w,CY,,,bn,,1,s,bn sandy CY w/ some dk mottling
+DHQ22,69.46,73.47,w,CY/T,SS,fm,gnbnwh,,1,s,gnbn sandy CY tuff w/ some SS IB; some bn & gn CY mottling; minor bnwh carbonate nodules; bedded/banded
+DHQ22,73.47,82.91,w,T,SS,fc,bnrd,10,1,s,bnrd sandy tuff or SS; low angle bedding/banding; some calcareous SS IB; some bn CY & dk CY mottling & IB

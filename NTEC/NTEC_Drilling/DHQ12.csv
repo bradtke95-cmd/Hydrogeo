@@ -1,0 +1,38 @@
+Hole_id,DHQ12,,,Date Start  27/03/2019,,,,Date Finish 29/03/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ12,0,7,,CO,,,,,,,"surficial colluvium; sand, basalt & granite boulders"
+DHQ12,7,8.39,w,CY,,,bn,,,,bn sandy CY w/ minor wh carbonate (root trace?); not competent
+DHQ12,8.39,8.93,w,CY,CC,,gywh,50,1,p,gy CY w/ abt wh carbonate mottling & nodules
+DHQ12,8.93,11.43,w,CY,,,gygn,10,0,s-p,gnbn-gngy CY w/ minor wh carbonate; sandy at top of interval; becomes more gy CY at btm
+DHQ12,11.43,14.53,w,CY,CC,,gywh,60+,2,,gywh-gybn CY w/ v abt wh carbonate mottling & nodules; some broken and tufa zones
+DHQ12,14.53,14.87,w,CY,TUFA,,whgn,20-30,2,c,banded & mottled whgn-gn tufa/CY; bn tufa IB w/ bright gn CY sandy tuff at btm
+DHQ12,14.87,18.43,sox,LS,CY/TUFA,,whgy,70-80,3,,wh LS/CC w/ abt gy CY mottling; v abt carbonate nodules
+DHQ12,18.43,20.05,w,CY,,,bngy,10-20,1,c,bngy CY w/ some wh carbonate mottling & nodules
+DHQ12,20.05,21,sox,LS/CC,,,gywh,60-70,2,,gywh LS w/ gy-gybn CY mottling; abt wh carbonate nodules; some broken & vuggy zones
+DHQ12,21,21.64,sox,CY,CC,,wh,10-20,1,,wh greasy whale spunk CY w/ some gy CY mottling and wh carbonate nodules
+DHQ12,21.64,22.66,sox,LS/CC,CY,,bnwh,60,2,,"gywh at top, grading into bnwh; v abt wh carbonate mottling & nodules; some gy & bn CY mottling"
+DHQ12,22.66,23.9,w,CY,LS/CC,,whgy,80,2,,whgy CY w/ v abt wh carbonate mottling & nodules
+DHQ12,23.9,27.18,w,CY,CC,,bn,50-60,2,p-c,bn CY w/ abt wh carbonate mottling & nodules; zones (+/- 10cm) of wh CC IB & mix
+DHQ12,27.18,27.74,sox,CC,,,wh,100,3,,broken w/ some bn CY IB & mix
+DHQ12,27.74,30.07,w,CY,CC,,bnwh,40-50,,,bn CY w/ abt wh carbonate mottling & nodules
+DHQ12,30.07,30.61,sox,CC,,,whbn,80-90,3,,wh CC w/ some bn mottling
+DHQ12,30.61,32.9,sox,TUFA,CY/T,,whbn-whgn,40,3,,banded & mottled whbn-whgn tufa; bright gn banded CY tuff at 31.18-31.50 (marker bed); some bn CY IB & mix; becomes more bnwh tufa/LS towards btm w/ abt calcite veins & vugs
+DHQ12,32.9,44.97,sox,CC,CY/TUFA,,bnwh,70-80,3,,alternating zones of whbn CC and bnwh CY/tufa; abt wh carbonate mottling & nodules; some broken zones; bnwh CY/tufa is banded w/ abt calcite veins & sm vugs; minor bn-bngy CY IB & mix
+DHQ12,44.97,47.15,sox,CY,,,bnwh-gywh,40,0,p,"bnwh-gywh greasy, waxy CY; mod wh carbonate mottling & nodules; whale spunk"
+DHQ12,47.15,47.92,w,CY/TUFA,,,bnwh,20,2,p-c,bn CY w/ some wh CY & carbonate mottling; ashy zone w/ sm carbonate nodules; bright gn at 47.33-47.37
+DHQ12,47.92,49.5,sox,LS/CC,CY,,bnwh,70-80,2,,bnwh CC/LS w/ some bn CY mottling; some whgy ashy zones; few sm vugs
+DHQ12,49.5,51.21,sox,LS/CC,,,whgy,100,3,,whgy LS/CC w/ minor gy CY mottling; sm vugs
+DHQ12,51.21,52.5,w,CY,T,fm,bn-bngn,5,2,c,bn-bngn CY tuff; minor carbonate nodules; some banding & mottling
+DHQ12,52.5,52.74,sox,CC,CY,,whgn,90,3,,wh CC w/ gn CY mottling & mix
+DHQ12,52.74,54.34,w,CY,T,fm,bn-bngn,5,2,c,bn-bngn CY tuff; minor sm carbonate nodules; some banding & mottling
+DHQ12,54.34,55.17,w,CY,T,vf,gn,,3,c,ashy gn CY tuff w/ minor vf sand
+DHQ12,55.17,55.76,sox,CC,CY,,whgn,90,3,,wh CC w/ gn CY mottling & mix; sm vugs
+DHQ12,55.76,57.06,w,CY,T,fc,gn,5-10,1,p-c,gn CY tuff w/ lapilli; some wh carbonate mottling & nodules; minor banding; becomes more gnbn at btm
+DHQ12,57.06,57.72,sox,LS/CC,,,wh,100,3,,wh LS/CC w minor gygn CY mottling; vuggy
+DHQ12,57.72,58.91,w,CY,T,fc,gygn-gybn,5,2,p-c,some lapilli and ashy zones
+DHQ12,58.91,60.7,w,CY/T,CC/LS,fc,whgn,50,2,p-c,whgn CY tuff w/ some wh carbonate mottling & nodules; bright gn bands 59.90-60.37 
+DHQ12,60.7,61.87,w,CY/T,CC,fc,wh,30-40,3,p,whgy CY tuff w/ lapilli; some wh carbonate mottling & nodules
+DHQ12,61.87,66.23,w,T,CY,fc,gygn-bngn,5-10,2,s,gygn-bngn sandy CY tuff; alternating ashy & sandy zones; some micas in sands; wh CC zone w/ vugs at 65.53-65.72
+DHQ12,66.23,67.33,sox,T/CY,LS,fm,bn,50-60,2,s,bn sandy CY tuff w/ abt wh LS/CC mottling & nodules
+DHQ12,67.33,70.41,sox,T/CY,,fm,bn,20-30,1,s,bn sandy CY tuff w/ bn CY IB & mix; mod wh LS/CC mottling & nodules; banded

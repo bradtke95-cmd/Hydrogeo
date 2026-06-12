@@ -1,0 +1,15 @@
+Hole_id,DHQ29,,,Date Start  25/05/2019,,,,Date Finish 27/05/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ29,0,9.75,,CO,,,,,,,surficial colluvium
+DHQ29,9.75,12.1,w,CY,SLT,vf,gn,<5,2,s-c,
+DHQ29,12.1,14.64,w,CY,,,gbngy-gy,30-40,3,p-s,
+DHQ29,14.64,16.17,w,CY,SLT,vf,gn,<5,2,s-c,
+DHQ29,16.17,34.7,w/sox,CY,CC/LS,fm,bn-gybn,60-70,3,p-s,
+DHQ29,34.7,35.71,w,CY/T,TUFA,fm,bn-wh-gn,50,2,s-c,bn & wh banded tufa w/ vugs grading down into gn & wh banded sandy/ashy CY tuff; marker bed
+DHQ29,35.71,55.47,w,CY,CC/LS,fm,bn-bngy,60-70,3,p-s,
+DHQ29,55.47,58.52,,,,,,,,,No recovery; Lost core
+DHQ29,58.52,61.71,w,CY,,,dkgn-gnbn,5-10,1,p,
+DHQ29,61.71,66.95,w,CY,CC/LS,,gy-gngy,50-60,3,p,
+DHQ29,66.95,71.67,w,SS,CY,fc,gngy-gnbn,10-20,3,s,
+DHQ29,71.67,79.86,sox,SS,CY/T,fc,bn-rdbn,20-30,1,s,

@@ -1,0 +1,43 @@
+Hole_id,DHQ8,,,Date Start  19/02/2019,,,,Date Finish  27/02/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ8,0,6.7,w,CO,,,,,,,surficial colluvium
+DHQ8,6.7,7.2,w,CY,,,bngn,,,p,
+DHQ8,7.2,8.23,w,CY,,,gn,,,p,
+DHQ8,8.23,9.8,w,CC,,,whgy,10-20,s,,some calcite nodules
+DHQ8,9.8,12.58,w,CY,,,gn,,,p,
+DHQ8,12.58,16.1,w,CY,,,gywh,,,p,mottled; 14.2-14.6 conspicuous bright green
+DHQ8,16.1,17,w,CY,,,bngy,,,p,
+DHQ8,17,18.23,w,CY,,,gywh,,,p,
+DHQ8,18.23,18.9,w,CC,,,whgy,,,,mottled
+DHQ8,18.9,20.1,w,CY,,,gybn,,,p,mottled w/ wh
+DHQ8,20.1,21.95,w,CY,,,gy,,,p,
+DHQ8,21.95,22.6,w,CY,,,gn,,,p,
+DHQ8,22.6,25.87,w,CY,,,bn,,,p,
+DHQ8,25.87,28.65,sox,CY,CC,,gybn,10,s,,becoming wh ashy tuff at btm of interval
+DHQ8,28.65,29.51,w,CY,,,gnwh,,,p,mottled w/ bright green 28.87-29.51m
+DHQ8,29.51,29.57,sox,LS,,,bngy,15-20,s,,calcite veining/mottling - root traces?
+DHQ8,29.57,31.09,,,,,,,,,No Recovery
+DHQ8,31.09,32.61,sox,LS,,,gybn,15-20,s,,calcite veining/mottling - root traces?
+DHQ8,32.61,35.66,w,CY,,,bngy,,,p,sandy at top of interval to 33.05m
+DHQ8,35.66,36.27,w,CY,CC,,bnwh,,,p,bngy CY w/ wh CC zone 36.0-36.2m
+DHQ8,36.27,37.19,w,CY,,,gnbn,,,p,whgy CY at 37.10-37.19m
+DHQ8,37.19,39.57,w,CY,,,bn,,,p,mottled w/ wh
+DHQ8,39.57,39.84,w,CY,,,gygn,,,p,gy CY w/ bright gn bands/beds
+DHQ8,39.84,40.6,w,CY,,,bngy,,,p,some gy mottling bn CY
+DHQ8,40.6,46.33,w,CC,CY,,whgy,10-20,s,p,wh CC w/some gy mottling & CY mix
+DHQ8,46.33,47.31,w,CY,,,bngy,,,p,
+DHQ8,47.31,48.34,w,CC,,,whgy,30+,s,p,wh CC w/some gy mottling & CY mix
+DHQ8,48.34,48.85,w,CY,CC,,gygn,,,p,gy & gygn CY w/ wh CC; some gn mottling
+DHQ8,48.85,51.25,w,CY,,,gnbn,,,p,some mottling; wh CC at 49.80m
+DHQ8,51.25,52.65,w,CY,,,bn,,,p,some mottling; becoming more gy at btm of interval
+DHQ8,52.65,55.1,w,CY,,,gngy,,,p,abt gn & gy mottling; transition to gnwh CC at btm of interval
+DHQ8,55.1,57.2,w,CC,CY,,gywh,30+,s,p,gn mottling
+DHQ8,57.2,59.4,w,CY,,,gngy,,,p,gn & gy mottling
+DHQ8,59.4,61.57,w,CC,CY,,whgy,10-20,s,,"gn & gy mottling, blebs"
+DHQ8,61.57,64.9,w,CY,,,gnbn,,,p,mottled; gn CY at btm; some sandy intervals
+DHQ8,64.9,67.67,w,CY,,,bngy,,,,becoming more sandy towards btm of interval
+DHQ8,67.67,70.54,w,T,SS,m-c,bn,10-20,s,,wh calcite veining; mottled; bn sandy tuff
+DHQ8,70.54,71.2,w,LS,CY,,whbn,30+,s,,whbn LS w/ some CY; pink cy at 71.13-71.20m
+DHQ8,71.2,72.24,w,T,SS,m-c,bn,10-20,s,,bn sandy tuff w/ wh calcite viening/nodules
+,,EOH,,,,,,,,,

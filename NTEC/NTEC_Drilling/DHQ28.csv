@@ -1,0 +1,18 @@
+Hole_id,DHQ28,,,Date Start  23/05/2019,,,,Date Finish 24/05/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ28,0,3.66,,CO,,,,,,,surficial colluvium
+DHQ28,3.66,12,w,CY,,fm,bn,5,1,p-s,
+DHQ28,12,26.02,w,CY,,fm,gn-gngy,5-10,,p-s,
+DHQ28,26.02,35.16,w,CY,,f,gy-gybn,30-40,2,p-s,
+DHQ28,35.16,37.03,sox,CC/LS,CY,,wh,90,3,p,
+DHQ28,37.03,37.68,w/sox,CY/T,TUFA,,gn-wh-bn,50,2,s,bn & wh banded tufa grading down into gn & wh banded sandy CY tuff; marker bed
+DHQ28,37.68,39.46,w,CY,,,bn-gybn,30-40,2,p-s,
+DHQ28,39.46,43,w,CY,,,bn,5,1,p-s,
+DHQ28,43,49.24,w,CY,,,gy-gybn,40-50,3,p-s,
+DHQ28,49.24,54.7,sox,CC/LS,CY,,whgy-whbn,70-80,3,p-s,
+DHQ28,54.7,61.24,w,CY,,,gybn-bn,40-50,3,p-s,
+DHQ28,61.24,68,sox,CC/LS,CY,,wh-whbn,,3,p-s,
+DHQ28,68,74.72,w,CY,,fm,gnbn-bn,10-15,2,p-s,
+DHQ28,74.72,79.86,w,SS/T,CY,fm,bn,10-15,3,s,
+DHQ28,79.86,89,,,,,,,,,No recovery; probably same Bn sandy tuff but so loose & unconsolidated that it is being washed away during drilling

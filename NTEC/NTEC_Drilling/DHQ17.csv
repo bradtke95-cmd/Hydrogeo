@@ -1,0 +1,13 @@
+Hole_id,DHQ17,,,Date Start  12/06/2019,,,,Date Finish 13/06/2019,,,
+,,,,,,,,,,,
+Hole_id,From,To,Wthr,Rock 1,Rock 2,Grain_size,Colour,CaCO3 %,Acid,Clay Type,Remarks
+DHQ17,0,15.85,,CO,,,,,,,surficial colluvium
+DHQ17,15.85,16.84,w,LS/TUFA,CY,fm,bnwh,60-70,3,s,
+DHQ17,16.84,24.23,w,CY,CC/LS,fm,gywh-bnwh,50-60,3,p-s,
+DHQ17,24.23,27,sox,CC,CY,fm,wh,80,3,s,
+DHQ17,27,31,w,CY,CC/LS,fm,bnwh,30-40,2,p-s,
+DHQ17,31,34.25,sox,CC/LS,,fm,wh-bnwh,80-90,3,s,
+DHQ17,34.25,35.11,w,CY/T,TUFA,f,bn-wh-gn,60-70,3,s,bn & wh banded tufa grading down into gn & wh banded sandy/ashy CY tuff; marker bed
+DHQ17,35.11,64.59,w,CY,CC/LS,fm,bnwh-gywh,50-60,3,p-s,
+DHQ17,64.59,68.18,w,CY,SAND,fm,bn-bngn,20,3,p-s,
+DHQ17,68.18,73.76,sox,T/CY,SS,fm,bnwh,40-50,3,s,
